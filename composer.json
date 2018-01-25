@@ -42,7 +42,7 @@
     "config": {
         "bin-dir": "bin",
         "optimize-autoloader": true,
-        "sort-packages": true,
+        "sort-packages": true
     },
     "autoload": {
         "classmap": [
